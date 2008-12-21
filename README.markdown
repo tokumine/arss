@@ -33,7 +33,7 @@ arss_munch.arss_feeds.first.stories.first.text # => "Body text of the article"
 Prerequisites
 --------------
 
-# simple-rss
-# open-uri
-# hpricot
-# activesupport
+* simple-rss
+* open-uri
+* hpricot
+* activesupport
