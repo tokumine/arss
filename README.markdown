@@ -1,5 +1,5 @@
-Arss - Economist Full RSS generator 
-===================================
+Arss - The Economist magazine Full RSS generator 
+================================================
 
 Introduction
 -------------
