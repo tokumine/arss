@@ -1,5 +1,5 @@
-Arss - generate full RSS from the crappy partial RSS provided by the Economist
-===============================================================================
+Arss - Economist Full RSS generator 
+===================================
 
 Introduction
 -------------
